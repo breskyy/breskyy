@@ -26,7 +26,7 @@ I am a passionate web developer and student of Information Technology with a foc
 - 🔄 Continuing to work on front-end/full-stack development skills, balancing between front-end and back-end.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
