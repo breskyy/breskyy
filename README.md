@@ -28,6 +28,8 @@ I am a passionate web developer and student of Information Technology with a foc
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breskyy&layout=compact&bg_color=151515)
+
 ## 🏆 Achievements
 
 - 🎓 Completed multiple personal and freelance projects, improving my skills with each new challenge.
@@ -39,7 +41,5 @@ I am a passionate web developer and student of Information Technology with a foc
 - Check out some of my work on [CodePen](https://codepen.io/bresky)
 
 Thanks for visiting! Let's connect and collaborate on exciting projects in web development. 🚀
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breskyy&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=breskyy&theme=dark&hide_border=true)](https://git.io/streak-stats)
