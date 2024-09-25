@@ -40,4 +40,6 @@ I am a passionate web developer and student of Information Technology with a foc
 
 Thanks for visiting! Let's connect and collaborate on exciting projects in web development. 🚀
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breskyy&layout=compact)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=breskyy&theme=dark&hide_border=true)](https://git.io/streak-stats)
