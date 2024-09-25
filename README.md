@@ -39,3 +39,5 @@ I am a passionate web developer and student of Information Technology with a foc
 - Check out some of my work on [CodePen](https://codepen.io/bresky)
 
 Thanks for visiting! Let's connect and collaborate on exciting projects in web development. 🚀
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=breskyy&theme=dark&hide_border=true)](https://git.io/streak-stats)
