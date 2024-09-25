@@ -28,7 +28,7 @@ I am a passionate web developer and student of Information Technology with a foc
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breskyy&layout=compact&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breskyy&layout=compact&hide_border=true&bg_color=273849&title_color=3FB180&text_color=fff)
 
 ## 🏆 Achievements
 
