@@ -7,7 +7,7 @@ I am a passionate web developer and student of Information Technology with a foc
 ## 🚀 About Me
 
 - 🔭 I’m currently in the 4th semester of my Engineering degree in IT, specializing in front-end development.
-- 💻 I enjoy working with HTML, CSS, JavaScript (I often use also PHP or SQL) and am in the process of expanding my skill set by learning Git, Vue.js, and React.js.
+- 💻 I enjoy working with HTML, CSS, JavaScript (I often use also PHP or SQL) and am in the process of expanding my skill set by learning Git, React and TypeScript.
 - 🎨 I have built several web projects, including a personal portfolio website and a fully functional site for a friend, using HTML, CSS, and JavaScript.
 - 🔧 I also dabble in PHP and SQL, creating small scripts and simple databases for personal projects.
 - 🌱 I’m passionate about both front-end and back-end development, and I'm exploring ways to integrate both into my projects.
@@ -16,12 +16,12 @@ I am a passionate web developer and student of Information Technology with a foc
 
 - 🛒 In parallel, I am slowly developing my smaller projects aimed at making the everyday work of me and my loved ones easier (one of them is intended to automate part of the work with products for e-commerce employees - the working name is "Simple assortment management in e-commerce"). I do it out of my own curiosity and desire to optimize work in this position in a small company in my city.
 - 🚧 Currently rebuilding my portfolio website to better showcase my work.
-- 💻 Worked on a web project for a friend, built entirely with HTML, CSS, and JavaScript.
+- 💻 Worked on a site for my friend, built entirely with HTML, CSS, and JavaScript.
 - 📦 Planning to upload more projects soon, both front-end and back-end, using various technologies.
 
 ## 🌱 Currently Exploring
 
-- 💻 Vue.js and React.js for dynamic front-end experiences.
+- 💻 React.js, Vue.js and also TypeScript for dynamic front-end experiences.
 - 🛠️ Git to enhance collaboration and version control in my projects.
 - 🔄 Continuing to work on front-end/full-stack development skills, balancing between front-end and back-end.
 
