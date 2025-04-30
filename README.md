@@ -21,7 +21,7 @@ I am a passionate web developer and student of Information Technology with a foc
 
 ## 🌱 Currently Exploring
 
-- 💻 React.js, Vue.js and also TypeScript for dynamic front-end experiences.
+- 💻 React.js, Vue.js, TypeScript for dynamic front-end experiences and python for AI development. 
 - 🛠️ Git to enhance collaboration and version control in my projects.
 - 🔄 Continuing to work on front-end/full-stack development skills, balancing between front-end and back-end.
 
